@@ -13,7 +13,7 @@ Projeto desenvolvido no curso Explore Rocketseat, no módulo de introdução HTM
 <li>CSS</li>
 <li>Git e Github</li>
 
-<h2>Contatos</h2>
+<h2>##Contatos</h2>
 
 <li>Email:<a target="_blank"
      href="mailto:gomesfilho.developer@gmail.com ">
