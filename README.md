@@ -20,7 +20,10 @@ Projeto desenvolvido no curso Explore Rocketseat, no módulo de introdução HTM
   gomesfilho.developer@gmail.com
           </a></li> 
 
-- LinkedIn:https//:linkedin.com/in/josé-gomes-473061252
+<li>LinkedIn:<a target="_blank"
+     href="linkedin.com/in/josé-gomes-473061252">
+        https//:linkedin.com/in/josé-gomes-473061252
+        </a>
  </li>
 
 
