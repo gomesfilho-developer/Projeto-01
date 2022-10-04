@@ -21,7 +21,7 @@ Projeto desenvolvido no curso Explore Rocketseat, no módulo de introdução HTM
           </a></li> 
 
 <li>LinkedIn:<a target="_blank"
-     href=" linkedin.com/in/josé-gomes-473061252">
+     href=" https//:www.linkedin.com/in/josé-gomes-473061252">
         https//:linkedin.com/in/josé-gomes-473061252
         </a>
  </li>
